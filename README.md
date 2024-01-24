@@ -3,8 +3,8 @@ Meu nome é Antoniel Zeferino de Melo e eu sou um desevolvedor web, minha área 
 
 ## Qualidades e defeitos 
 Minhas qualidades são foco nos objetivos, dedicação a aprender novas tecnologias, facilidades de aprendizado e organização.
-Vejo como meus maiores defeitos: dificuldade de decisão, pouca criatividade e a falta de experiência. 
-Mas estou sempre em busca de melhorar e sobrepor esses defeitos.
+Vejo como meus maiores defeitos: dificuldade de decisão, pouca criatividade e a falta de experiência.
+Mas estou sempre em busca de aprender mais e melhorar.
 
 ## Contato
 * Email: [antonielzeferino0@gmail.com]
