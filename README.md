@@ -3,8 +3,6 @@
 <hr/>
 Eu sou um desevolvedor web, minha área de estudos atualmente é o front-end mas eu planejo partir para o back-end e me tornar um desenvolvedor full-stack, Para ser capaz disso venho sempre buscando uma ótima organização e me reinventar de vez enquando sempre tentando aprender novas habilidades e sem medo de errar.<br/><br/>
 
-Sou uma pessoa que gosta de trabalhar com metas curtas até conquistar objetivos grandes, gosto de fazer as coisas de forma eeficiente e menos trabalhosa, tenho boa comunicação e sou bom em trabalhar em equipe.
-
 ### Tecnologias
 As tecnologias que eu domino atualmente são: HTML, CSS, JavaScript, TypeScript, React, Sass e Bootstrap. 
 Após dominar o front-end planejo aprender principalmente: node.js, mongoDb, next.js e bulma.
