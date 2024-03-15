@@ -5,7 +5,7 @@
 <a  href="https://www.linkedin.com/in/antonielzeferino/" target="_blank"> 
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/antonielzm/" target="_blank"> 
+<a href="https://instagram.com/antoniel_zm/" target="_blank"> 
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="mailto:antonielzeferino0@gmail.com" target="_blank">
