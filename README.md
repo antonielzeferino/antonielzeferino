@@ -29,6 +29,6 @@
 </div>
 <h2>GitHub Statistic</h2>
 <div display="flex" align="center">
-  <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielzeferino&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=antonielzeferino&show_icons=true&theme=dracula&hide=prs"/>
+  <img height="180em" width="300" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielzeferino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="350" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=antonielzeferino&show_icons=true&theme=dracula&hide=prs"/>
 </div>
