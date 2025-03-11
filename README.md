@@ -1,5 +1,5 @@
 <h1>Hello world!</h1>
-<p> I am a Passionate front-end developer with a thirst for knowledge and growth. Experienced in JavaScript and immersing myself in the captivating world of web development since 2021. Collaborative and driven by innovation, I thrive in environments where ideas are shared and creativity flourishes. Seeking meaningful projects and like-minded individuals to create seamless and dynamic web experiences. Let's innovate together!</p>
+<p>I am a front-end developer focused on JavaScript and its technologies. I have been studying and improving in web development since 2021, always striving to create efficient and innovative applications, exploring new technologies, and keeping up with industry trends. 🚀</p>
 
 <h2>Contact me here :point_down:</h2>
 <a  href="https://www.linkedin.com/in/antonielzeferino/" target="_blank"> 
