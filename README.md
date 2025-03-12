@@ -31,4 +31,5 @@
 <div display="flex" align="center">
   <img height="180em" width="300" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielzeferino&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" width="350" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=antonielzeferino&show_icons=true&theme=dracula&hide=prs"/>
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Roessler00&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
